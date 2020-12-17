@@ -1,0 +1,169 @@
+          @
+          |
+S-.-s-.-e-i
+      | | |
+      H a |
+          |
+       t  |
+       ml |
+       .--p
+          |
+        *-f
+          |
+      j-.-fh-ge
+      |
+     ee
+
+
+
+
+
+
+i: infinite loop (DEATH)
+p: photons (DEATH)
+ge: giant electro magnet (DEATH)
+ml: Molten Lava (DEATH)
+
+e: escape pod (EXIT)
+s: space heater
+a: antenna
+S: Security check (weight)
+H: Holodeck
+t: tambourine
+f: fixed point
+*: asterix
+fh: festive hat
+j: jam
+ee: easter egg
+
+
+- Space heater
+
+- space heater
+- antenna
+
+- asterisk
+- antenna
+- easter egg
+- jam
+
+- tambourine
+- festive hat
+
+- easter egg
+- tambourine
+- festive hat
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+- jam
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+- jam
+- festive hat
+
+- asterisk
+- antenna
+- easter egg
+- jam
+- fixed point
+
+- asterisk
+- antenna
+- easter egg
+- jam
+- festive hat
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+- jam
+- festive hat
+- fixed point
+
+- tambourine
+
+- tambourine
+- festive hat
+
+- tambourine
+- fixed point
+
+
+- tambourine
+- festive hat
+- fixed point
+
+
+======
+
+tambourine+
+Asterisk*
+antenna*
+easter egg*
+space heater*
+jam*
+
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+- jam
+- tambourine
+- festive hat
+- fixed point
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+- jam
+- tambourine
+- festive hat
+
+- asterisk
+- antenna
+- easter egg
+- space heater
+- jam
+- tambourine
+
+- asterisk
+- antenna
+- easter egg
+- jam
+- tambourine
+- festive hat
+
+- asterisk
+- antenna
+- easter egg
+- jam
+- tambourine
+
+
+- antenna
+- tambourine
+- festive hat
+
+- jam
+- tambourine
+- festive hat
+
+
+- asterisk
+- easter egg
+- tambourine
+- festive hat
